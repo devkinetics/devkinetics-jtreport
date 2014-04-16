@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>devkinetics-jtreport</artifactId>
     <version>1.0</version>
-    <name>DevKinetics</name>
+    <name>devkinetics-jtreport</name>
     <packaging>jar</packaging>
     <description>devkinetics-jtreport</description>
     <url>http://www.devkinetics.com</url>
@@ -273,9 +273,9 @@
         </profile>
     </profiles>
     <scm>
-        <connection>scm:git:git@github.com:jt-org/jt-report.git</connection>
-        <url>scm:git:git@github.com:jt-org/jt-report.git</url>
-        <developerConnection>scm:git:git@github.com:jt-org/jt-report.git</developerConnection>
+        <connection>scm:git:git@github.com:devkinetics/devkinetics-jtreport.git</connection>
+        <url>scm:git:git@github.com:devkinetics/devkinetics-jtreport.git</url>
+        <developerConnection>scm:git:git@github.com:devkinetics/devkinetics-jtreport.git</developerConnection>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
